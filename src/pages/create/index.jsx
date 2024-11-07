@@ -1,0 +1,1 @@
+export { default as addUPS } from "@/pages/dashboard/add/addups";
